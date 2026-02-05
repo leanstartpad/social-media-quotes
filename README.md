@@ -5,7 +5,7 @@ A Claude skill for generating branded social media quote images for LinkedIn and
 ## Overview
 
 This skill automatically generates 1000x1000px quote images with Jeff 'SKI' Kinsey branding, featuring:
-- Lavender background with geometric line pattern
+- Purple background with geometric line pattern
 - Rye decorative font for quote text
 - Fixed branding elements (logo, name, tagline, #27Rhinos hashtag)
 - High-quality JPEG output suitable for social media posting
